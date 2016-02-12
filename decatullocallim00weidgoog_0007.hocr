@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./decatullocallim00weidgoog_0007.png"; bbox 0 0 3092 4725; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 819 1790 2202 1901">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 819 1790 2202 1901">
+     <span class='ocr_line' id='line_1_1' title="bbox 819 1790 2202 1901; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 819 1790 1427 1901; x_wconf 82' lang='lat' dir='ltr'>Guilelmo</span> <span class='ocrx_word' id='word_1_2' title='bbox 1510 1792 2202 1899; x_wconf 82' lang='lat' dir='ltr'>Schaffrath</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 337 2132 2672 2236">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 337 2132 2672 2236">
+     <span class='ocr_line' id='line_1_2' title="bbox 337 2132 2672 2236; baseline 0 -21"><span class='ocrx_word' id='word_1_3' title='bbox 337 2132 627 2216; x_wconf 79' lang='lat' dir='ltr'>doctori</span> <span class='ocrx_word' id='word_1_4' title='bbox 665 2135 742 2215; x_wconf 78' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_5' title='bbox 778 2132 1141 2215; x_wconf 78' lang='lat' dir='ltr'>advocato</span> <span class='ocrx_word' id='word_1_6' title='bbox 1169 2132 1580 2216; x_wconf 69' lang='lat' dir='ltr'>Drasdensi</span> <span class='ocrx_word' id='word_1_7' title='bbox 1618 2135 1788 2216; x_wconf 83' lang='lat' dir='ltr'>viro</span> <span class='ocrx_word' id='word_1_8' title='bbox 1817 2134 2106 2236; x_wconf 78' lang='lat' dir='ltr'><strong>optime</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2131 2133 2224 2216; x_wconf 78' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_10' title='bbox 2250 2155 2374 2216; x_wconf 79' lang='lat' dir='ltr'>me</span> <span class='ocrx_word' id='word_1_11' title='bbox 2397 2135 2672 2217; x_wconf 78' lang='lat' dir='ltr'><strong>merito</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 552 2403 2457 2496">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 552 2403 2457 2496">
+     <span class='ocr_line' id='line_1_3' title="bbox 552 2403 2457 2496; baseline -0.001 -21"><span class='ocrx_word' id='word_1_12' title='bbox 552 2406 1101 2496; x_wconf 83' lang='lat' dir='ltr'><strong>litterarumque</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1147 2405 1609 2496; x_wconf 82' lang='lat' dir='ltr'><strong>antiquarum</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1657 2403 2070 2474; x_wconf 83' lang='lat' dir='ltr'>etiamnunc</span> <span class='ocrx_word' id='word_1_15' title='bbox 2119 2403 2457 2474; x_wconf 86' lang='lat' dir='ltr'>studioso.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
